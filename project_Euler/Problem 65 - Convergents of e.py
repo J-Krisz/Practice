@@ -1,0 +1,1 @@
+"""The square root of 2 can be written as an infinite continued fraction."""

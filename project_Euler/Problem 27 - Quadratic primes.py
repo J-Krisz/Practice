@@ -1,0 +1,1 @@
+"""Euler discovered the remarkable quadratic formula:"""

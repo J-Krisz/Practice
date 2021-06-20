@@ -1,0 +1,1 @@
+"""The first two consecutive numbers to have two distinct prime factors are:"""

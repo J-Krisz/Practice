@@ -1,0 +1,1 @@
+"""In the game, Monopoly, the standard board is set up in the following way:"""
