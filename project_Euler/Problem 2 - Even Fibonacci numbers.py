@@ -3,7 +3,6 @@
 # By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms. 
 # The page has been left unattended for too long and that link/button is no longer active. Please refresh the page. 
 
-
 max_value = 4000000
 n1, n2 = 1, 2
 
