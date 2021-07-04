@@ -13,11 +13,9 @@ def pig_latin():
     translated_word = ""
 
     if word[0] in vowels:
-        translated_word = word + "way"
+        return f"{word}way"
     else:
-        translated_word = word[1:] + word[0] + "ay"
-
-    return translated_word
+        return f"{word[1:]}{word[0]}ay"
 
 
 print(pig_latin())
