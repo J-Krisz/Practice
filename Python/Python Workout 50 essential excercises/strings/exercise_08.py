@@ -8,3 +8,9 @@
 # string should contain the same characters as the input, except that its
 # characters should be stored in order, from the lowest Unicode value to the
 # highest
+
+
+def strsort(string):
+    return sorted(string)
+
+print(strsort("bacdhgfe"))
