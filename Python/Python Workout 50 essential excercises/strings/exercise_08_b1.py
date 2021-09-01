@@ -18,8 +18,22 @@ def comma_separate(string):
     return ", ".join(sorted(string.split()))
 
 def last_word(string):
-    pass
+    return comma_separate(string).split()[-1]
+
 
 def longest(string):
-    pass
 
+    longest_word = ''
+
+    for word in string.split():
+        if len(word) > len(longest_word):
+            longest_word = word
+    return longest_word
+
+
+
+print(comma_separate("Tom Dick Harry"))
+
+print(last_word("Tom Dick Harry"))
+
+print(longest("Tom Dick Harry"))
