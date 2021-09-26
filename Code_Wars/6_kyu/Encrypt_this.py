@@ -1,3 +1,4 @@
+# 6 Kyu
 # 1. Your message is a string containing space saparated words.
 # 2. You need to encrypt each word in the message using the following rules:
     # The first letter must ve converted to its ASCII code.
